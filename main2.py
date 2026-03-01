@@ -4,7 +4,7 @@ import re
 import os
 from main1 import password
 from main1 import coins
-bot = telebot.TeleBot("8798906841:AAFubNvJ2Nr1Fg9iGxdml10FYXdALc4wpRI")
+bot = telebot.TeleBot("TOKEN")
 
 image = (os.listdir(r"C:\Python Projects\password generator\.vscode\image"))
     
